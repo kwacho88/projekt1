@@ -8,3 +8,5 @@ ssss
 cośtam cośtam
 
 albo i więcej
+
+linia lokalnie
